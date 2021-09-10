@@ -9,4 +9,5 @@ fn main() {
   // chapter4::main4_3_1();
   chapter5::main5_1();
   chapter5::main5_2();
+  chapter5::main5_3();
 }
